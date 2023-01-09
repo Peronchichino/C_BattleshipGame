@@ -23,17 +23,3 @@ Execution:
 		* a,a; b,b; etc..
 	* For directions:
 		* 1, 2, 3, 4
-
-Completed Tasks:
-1. Main Task
-	*Fully
-2. Task
-	*Fully
-3. Task
-	*Partially
-	*No 1 cell spacer between ships
-	*Ships are completely placed randomly and securely
-4. Task
-	*Fully
-5. Task
-	*Fully
