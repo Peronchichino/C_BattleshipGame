@@ -1,0 +1,48 @@
+										
+                                     |__
+                                     |\/
+                                     ---
+                                     / | [
+                              !      | |||
+                            _/|     _/|-++'
+                        +  +--|    |--|--|_ |-
+                     { /|__|  |/\__|  |--- |||__/
+                    +---------------___[}-_===_.'____                 /\
+                ____`-' ||___-{]_| _[}-  |     |_[___\==--            \/   _
+ __..._____--==/___]_|__|_____________________________[___\==--____,------' .7
+|                                                                   Bismarck/
+ \_________________________________________________________________________|
+
+
+ _           _   _   _           _     _         _
+| |         | | | | | |         | |   (_)       | |
+| |__   __ _| |_| |_| | ___  ___| |__  _ _ __   | |
+| '_ \ / _` | __| __| |/ _ \/ __| '_ \| | '_ \  |_|
+| |_) | (_| | |_| |_| |  __/\__ \ | | | | |_) |  _
+|_.__/ \__,_|\__|\__|_|\___||___/_| |_|_| .__/  |_|
+                                        | |    
+                                        |_| 
+Creator: Lukas Buchmayer
+
+Welcome to Battleship!!
+
+The rules are quite simple, as you most likely know.
+Sink all enemy ships before the enemy (in this case the PC) sinks yours.
+
+Key for the game:
+- Ships are represented by an S
+- Shots fired into the water/misses are represented by an O
+- Hit ships are represented by an X"
+- Cords should be put in as lower case and the following format: x,y
+- Ship symbols:
+	-c -> Carrier: 1x5
+	-b -> Battleship: 1x4
+	-s -> Submarine: 1x3
+	-d -> Destroyer: 1x2
+- Directions:
+	-1 -> Right
+	-2 -> Down
+	-3 -> Left
+	-4 -> Up
+
+Good luck and have fun :)
